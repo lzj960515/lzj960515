@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 我是一名Java开发工程师
+- 💬 你也可以叫我阿紫
+- 📫 个人博客网站: zijiancode.cn
